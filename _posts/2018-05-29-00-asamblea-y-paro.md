@@ -12,10 +12,11 @@ PARAMOS POR:
   - Reincorporación de todxs lxs despedidxs
   - Paritarias libres sin techo
 
-![imagen]({{ site.baseurl }}/img/20180529_paro_1_junio_cartel.jpeg "Cartel paro")
+![imagen]({{ site.baseurl }}/img/20180529_paro_1_junio_cartel.jpeg "Cartel paro"){:style="display: block; margin-left: auto; margin-right: auto; width: 400px;"}
 
-
-<a data-toggle="collapse" href="#ver_acta" aria-expanded="false" aria-controls="ver_acta">detailed description <span class="caret"></span></a>
+<a data-toggle="collapse" href="#ver_acta" aria-expanded="false" aria-controls="ver_acta">
+Ver Acta de PARO
+<span class="caret"></span></a>
 
 <div id="ver_acta" class="collapse" markdown="1" style="padding: 10px; border: 1px solid gray; border-radius: 5px;">
 Acta de paro
