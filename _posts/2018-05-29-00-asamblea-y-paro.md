@@ -8,11 +8,22 @@ tags: [posteo]
 El día MIÉRCOLES 30/05 realizaremos una Asamblea de lxs trabajadorxs en el quincho de CITEDEF a las 10 hs, así mismo se informa a todxs que el día VIERNES 01/06 habrá PARO NACIONAL; (adjuntamos acta de paro). En la asamblea decidiremos en conjunto el tipo de Paro que realizaremos.
 
 PARAMOS POR:
-*Cese de despidos
-* Reincorporación de todxs lxs despedidxs
-* Paritarias libres sin techo
+  - Cese de despidos
+  - Reincorporación de todxs lxs despedidxs
+  - Paritarias libres sin techo
+
+![imagen]({{ site.baseurl }}/img/20180529_paro_1_junio_cartel.jpeg "Cartel paro")
+
+
+<a data-toggle="collapse" href="#ver_acta" aria-expanded="false" aria-controls="ver_acta">detailed description <span class="caret"></span></a>
+
+<div id="ver_acta" class="collapse" markdown="1" style="padding: 10px; border: 1px solid gray; border-radius: 5px;">
+Acta de paro
 
 ![imagen]({{ site.baseurl }}/img/20180529_Paro_1_de_junio_18.jpeg "Acta paro")
+
+</div>
+
 
 
 Saludamos a todxs
