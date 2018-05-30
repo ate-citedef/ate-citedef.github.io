@@ -24,7 +24,7 @@ description: Publicación de los trabajadores de citedef
 # List of links in the navigation bar
 navbar-links:
   Información:
-    - Junta Interna: "junta-interna"les
+    - Junta Interna: "junta-interna"
     - Conocé tus derechos: "documentos-utiles"
   Categorias:
     - Publicación: "publicaciones"
