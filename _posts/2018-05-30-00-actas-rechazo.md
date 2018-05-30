@@ -15,7 +15,7 @@ También han propuesto mantener los mismo valores del extorsionador presentismo.
 
 **Una vez mas El Estado empleador propone que la crisis y la deuda externa generada la paguemos los Trabajadores.**
 
-Por esto llamamos a PARAR el próximo Viernes 30 de Mayo para decirle BASTA a estas medidas que nos empobrecen día a día.
+Por esto llamamos a PARAR el próximo Viernes 1 de Junio para decirle BASTA a estas medidas que nos empobrecen día a día.
 
 
 ![imagen]({{ site.baseurl }}/img/20180529_paro_1_junio_cartel.jpeg "Cartel paro"){:style="display: block; margin-left: auto; margin-right: auto; width: 400px;"}
