@@ -23,7 +23,9 @@ description: Publicación de los trabajadores de citedef
 
 # List of links in the navigation bar
 navbar-links:
-  Junta Interna: "junta-interna"
+  Información:
+    - Junta Interna: "junta-interna"les
+    - Conocé tus derechos: "documentos-utiles"
   Categorias:
     - Publicación: "publicaciones"
     - Noticias Citedef: "noticias-citedef"
@@ -75,8 +77,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "ate-citedef@citedef.gob.ar"
-  facebook: ate-citedef
+  email: "atecitedef@gmail.com"
+  facebook: AteCitedefok
   twitter: ate-citedef
 #  github: ate-citedef
 #  reddit: yourname
@@ -108,6 +110,9 @@ url-pretty: "ate-citedef.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
+google_analytics: true
+#gtag: "UA-117190854-1"
+gtag: "UA-120059224-1"
 
 # Google Tag Manager ID
 #gtm: ""
