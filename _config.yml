@@ -77,7 +77,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "atecitedef@gmail.com"
+  email: "ate@citedef.gob.ar"
   facebook: AteCitedefok
   twitter: atecitedefok
 #  github: ate-citedef
@@ -144,7 +144,8 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Argentina/Buenos_Aires"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
