@@ -2,7 +2,7 @@
 layout: post
 title: Resoluciones asamblea INTI
 subtitle: Noticias de la situación en el corredor científico de Gral. Paz
-tags: [posteo]
+tags: [posteo,noticias_generales]
 ---
 
 

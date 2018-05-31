@@ -2,7 +2,7 @@
 layout: post
 title: Rechazo a la propuesta paritaria
 subtitle: Actas del rechazo a la propuesta de aumento de 12%
-tags: [posteo]
+tags: [posteo,noticias_generales]
 ---
 
 

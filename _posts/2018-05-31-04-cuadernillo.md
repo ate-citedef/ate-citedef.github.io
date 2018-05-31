@@ -2,7 +2,7 @@
 layout: post
 title: Cuadernillo de trabajadoras de Ciencia y Tecnología
 subtitle: 8M
-tags: [posteo,genero]
+tags: [posteo,genero,noticias_generales]
 ---
 
 Las trabajadoras de ciencia y tecnología nos reunimos para realizar un documento en conjunto donde nos declaramos en contra de
