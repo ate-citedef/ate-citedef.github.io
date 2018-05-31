@@ -5,6 +5,11 @@ subtitle: 8M
 tags: [posteo,genero]
 ---
 
+Las trabajadoras de ciencia y tecnogía nos reunimos para realizar un documento en conjunto donde nos declaramos en contra de
+los despidos el ajuste y el vaciamiento de nuestros organismos,
+como así también en la desigualdad de oportunidades que tenemos las mujeres.
+
+**INTI - CNA - CONICET - IAA - CITEDEF - SEGEMAR - SENASA**
 
 <div class="alert alert-info" role="alert">
 Te compartimos el Cuadernillo de trabajadoras de Ciencia y Tecnología
@@ -18,6 +23,6 @@ Te compartimos el Cuadernillo de trabajadoras de Ciencia y Tecnología
 
 
 
-Comparte Espacio de género ATE CITEDEF
+Comparte: Espacio de género ATE CITEDEF
 
 ![genero]({{ site.baseurl }}/img/ate_genero.jpg "genero"){:style="width: 250px;"}
