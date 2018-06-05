@@ -1,6 +1,6 @@
   ---
 layout: post
-title: Noti-Gremiales 5-06
+title: Noti-Gremiales
 subtitle: Noticias del ámbito gremial para Citedef
 tags: [posteo,noticias_generales,gremiales]
 ---
