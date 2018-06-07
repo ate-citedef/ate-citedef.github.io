@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turismo 2018 y beneficios ATE
-tags: [posteo,accion_social]
+tags: [posteo,accion_social,numero1]
 ---
 
 El Departamento de Turismo de ATE Capital sigue creciendo para que los afiliados y sus familias accedan a las mejores ofertas turísticas, en términos de calidad y precio.
