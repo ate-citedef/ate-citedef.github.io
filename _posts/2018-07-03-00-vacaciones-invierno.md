@@ -22,15 +22,15 @@ Comunicate con el departamento de Turismo 4305-0457 o escribinos
 
 ### Chapadmalal
 
-![imagen]({{ site.baseurl }}/img/20180703_chapadmalalinvierno.png "Chapadmalal invierno"){:style="display: block; margin-left: auto; margin-right: auto; width: 600px;"}
+![imagen]({{ site.baseurl }}/img/20180703_chapadmalalinvierno.png "Chapadmalal invierno"){:style="display: block; margin-left: auto; margin-right: auto; width: 100%;"}
 
 ### Jujuy
 
-![imagen]({{ site.baseurl }}/img/20180703_jujuyinvierno.png "Jujuy invierno"){:style="display: block; margin-left: auto; margin-right: auto; width: 600px;"}
+![imagen]({{ site.baseurl }}/img/20180703_jujuyinvierno.png "Jujuy invierno"){:style="display: block; margin-left: auto; margin-right: auto; width: 100%;"}
 
 ### San Juan
 
-![imagen]({{ site.baseurl }}/img/20180703_sanjuaninvierno.png "San Juan invierno"){:style="display: block; margin-left: auto; margin-right: auto; width: 600px;"}
+![imagen]({{ site.baseurl }}/img/20180703_sanjuaninvierno.png "San Juan invierno"){:style="display: block; margin-left: auto; margin-right: auto; width: 100%;"}
 
 
 
