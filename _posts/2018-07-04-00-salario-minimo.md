@@ -44,7 +44,7 @@ Por lo tanto, ambas canastas no deben verse como contrapuestas, sino como metodo
 
 
 
-http://ate.org.ar/nota.asp?id=12717&titulo=%C2%BFde-cuanto-deberia-ser-el-salario-minimo
 
 
-Fuente: [www.infogremiales.com.ar](http://www.infogremiales.com.ar)
+Fuente: [ate.org.ar](http://ate.org.ar/nota.asp?id=12717&titulo=%C2%BFde-cuanto-deberia-ser-el-salario-minimo
+)
