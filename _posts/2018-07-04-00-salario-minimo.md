@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿De cuánto debería ser el salario mínimo?
-subtitle: Prensa-ATE
+subtitle: Prensa ATE
 tags: [posteo,noticias_generales,gremiales]
 ---
 
