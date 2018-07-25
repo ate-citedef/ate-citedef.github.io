@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fuerzas Armadas represivas Nunca Más
-subtitle: Acto contra el usa de las FFAA en seguridad interior  
+subtitle: Acto contra el uso de las FFAA en seguridad interior  
 tags: [posteo,noticias]
 ---
 
