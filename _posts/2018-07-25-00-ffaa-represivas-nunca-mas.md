@@ -12,7 +12,7 @@ tags: [posteo,noticias]
 <strong>Acto:</strong> Jueves 26 de Junio, 17 hs. Paseo Colón y Alsina.
 </div>
 
-![imagen]({{ site.baseurl }}/img/20180725_marcha.jpg "ATE"){:style="display: block; margin-left: auto; margin-right: auto; width: 600px;"}
+![imagen]({{ site.baseurl }}/img/20180725_marcha.jpeg "ATE"){:style="display: block; margin-left: auto; margin-right: auto; width: 600px;"}
 
 Convocatoria de los organismos de Derechos Humanos:
 
