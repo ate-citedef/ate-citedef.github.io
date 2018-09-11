@@ -21,6 +21,7 @@ Te esperamos en el Ministerio de Hacienda. concentraremos a partir de las 13 hs.
 
 **Paro 12 de septiembre**
 
+![imagen]({{ site.baseurl }}/img/20180911_paro12deSep_ATE_Cap.jpeg "Cartel paro"){:style="display: block; margin-left: auto; margin-right: auto;"}
 
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">12 de septiembre <br>PARO Y MOVILIZACIÓN<br>Contra el ajuste y los despidos <a href="https://t.co/bRtNcLs4YC">pic.twitter.com/bRtNcLs4YC</a></p>&mdash; ATE Capital (@ATECapitalOk) <a href="https://twitter.com/ATECapitalOk/status/1038828877668397056?ref_src=twsrc%5Etfw">9 de septiembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
