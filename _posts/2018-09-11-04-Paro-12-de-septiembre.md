@@ -28,6 +28,29 @@ Decir No a la degradación a Secretaria de los Ministerios de Salud y Trabajo, l
 </div>
 
 
+<a data-toggle="collapse" href="#ver_acta" aria-expanded="false" aria-controls="ver_acta">
+Ver Notas de PARO
+<span class="caret"></span></a>
+
+<div id="ver_acta" class="collapse" markdown="1" style="padding: 10px; border: 1px solid gray; border-radius: 5px;">
+
+<object data="{{ site.baseurl }}/docs/20180911_Nota_12.9_a_Trabajo.pdf" type="application/pdf" style="width: 100%; height: 80vh;" >
+  <a href="{{ site.baseurl }}/docs/20180911_Nota_12.9_a_Trabajo.pdf">
+    <img src="{{ site.baseurl }}/img/20180911_Nota_12.9_a_Trabajo.png" alt="imagen" title="docs/20180911_Nota_12.9_a_Trabajo" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
+  </a>
+</object>
+
+
+<object data="{{ site.baseurl }}/docs/20180911_Nota_por_12.9_Modernización.pdf" type="application/pdf" style="width: 100%; height: 80vh;" >
+  <a href="{{ site.baseurl }}/docs/20180911_Nota_por_12.9_Modernización.pdf">
+    <img src="{{ site.baseurl }}/img/20180911_Nota_por_12.9_Modernización.png" alt="imagen" title="20180911_Nota_por_12.9_Modernización" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
+  </a>
+</object>
+
+</div>
+
+
+
 Junta interna ATE CITEDEF
 
 ![Junta interna ATE CITEDEF]({{ site.baseurl }}/img/firma.jpg "Junta interna ATE CITEDEF"){:style="width: 400px;"}
