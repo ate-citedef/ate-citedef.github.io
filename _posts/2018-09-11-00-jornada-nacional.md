@@ -2,7 +2,7 @@
 layout: post
 title: Jornada Nacional de Lucha -  12 de Septiembre
 subtitle: Contra los despidos y el ajuste del Gobierno Nacional
-tags: [posteo,noticias_locales]
+tags: [posteo,noticias_locales,gremiales]
 ---
 
 
