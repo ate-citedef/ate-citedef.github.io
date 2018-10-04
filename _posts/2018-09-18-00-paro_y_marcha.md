@@ -19,7 +19,7 @@ El 24 marchamos desde Avenida de Mayo y 9 de Julio.
 [#LaUnidadEsElCamino](https://twitter.com/hashtag/LaUnidadEsElCamino)
 
 
-![imagen]({{ site.baseurl }}/20189018_paro_y_marcha.jpg "Cartel paro"){:style="display: block; margin-left: auto; margin-right: auto;"}
+![imagen]({{ site.baseurl }}/img/20189018_paro_y_marcha.jpg "Cartel paro"){:style="display: block; margin-left: auto; margin-right: auto;"}
 
 
 Junta interna ATE CITEDEF
