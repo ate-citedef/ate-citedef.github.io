@@ -39,7 +39,9 @@ En un masivo Plenario General de Delegados y Delegadas desarrollado hoy en el Au
 
 </div>
 
-
+Descargar Actas:
+  - [Actas_Modernización_14.11.pdf]({{ site.baseurl }}/docs/20181112_Actas_Modernización_14.11.pdf)
+  - [Actas_Trabajo_14.11.pdf]({{ site.baseurl }}/docs/20181112_Actas_Trabajo_14.11.pdf)
 
 Junta interna ATE CITEDEF
 
