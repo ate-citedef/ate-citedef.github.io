@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jueves 12/11: Reunion de afiliados
+title: Jueves 12 Reunion de afiliados
 subtitle: Presentación de Balance y Elecciones
 tags: [posteo,noticias_locales,gremiales]
 ---
