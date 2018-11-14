@@ -27,7 +27,7 @@ Con tu participación ayudas a mejorar la transparencia, tanto en la gestión de
 
 <div class="alert alert-info" role="alert">
 <p><strong>Día y Horario: </strong> Viernes 16/11 a las 12 hs.</p>
-<p><strong>Lugar: Quincho de Citedef</p>
+<p><strong>Lugar:</strong> Quincho de Citedef</p>
 </div>
 
 Atentamente.
