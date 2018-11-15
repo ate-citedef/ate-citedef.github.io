@@ -1,18 +1,18 @@
 ---
 layout: post
-title: XXX Reunion de afiliados
+title: Viernes 16 Reunion de afiliados
 subtitle: Presentación de Balance y Elecciones
 tags: [posteo,noticias_locales,gremiales]
 ---
 
 <div class="alert alert-danger" role="alert">
-<strong>Atención:</strong> La reunión fue trasladada al día <strong>XXX de NOVIEMBRE, A LAS 12 HS</STRONG>
+<strong>Atención:</strong> La reunión fue trasladada al día <strong>VIERNES 16 de NOVIEMBRE, A LAS 11:30 HS</STRONG>
 </div>
 
 Estimados compañeros y compañeras:
 
 Ponemos en conocimiento de las y los afiliados que el próximo
-**XXX de Noviembre a las 12 hs** se realizará una nueva reunión
+**VIERNES 16 de Noviembre a las 11:03 hs** se realizará una nueva reunión
 de afiliados a ATE-Citedef, con el fin de tratar los siguientes temas:
 
   - **Presentación de Balance de Gestión**
@@ -26,7 +26,7 @@ Con tu participación ayudas a mejorar la transparencia, tanto en la gestión de
 
 
 <div class="alert alert-info" role="alert">
-<p><strong>Día y Horario: </strong> XXX/11 a las 12 hs.</p>
+<p><strong>Día y Horario: </strong> VIERNES 16/11 a las 11:30 hs.</p>
 <p><strong>Lugar:</strong> Quincho de Citedef</p>
 </div>
 
