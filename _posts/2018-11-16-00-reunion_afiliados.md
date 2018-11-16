@@ -18,6 +18,7 @@ Descargar Informe de Gestión 2018
 
 A su vez, se dió conocimiento de la listas presentadas para la elección de nueva junta interna, el Miércoles 12 de Diciembre de 2018.
 
+Un gremio más transparente es un gremio más fuerte.
 
 
 Atentamente.
