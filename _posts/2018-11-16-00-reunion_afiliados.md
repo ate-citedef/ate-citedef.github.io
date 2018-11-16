@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reunion de afiliados
+title: Reunión de afiliados
 subtitle: Balance y llamado a elecciones
 tags: [posteo,noticias_locales,gremiales]
 ---
