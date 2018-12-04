@@ -11,11 +11,20 @@ de un nuevo
 exigiendo justicia
 contra el fallo absolutorio por el femicidio de Lucía Pérez.
 
+Se llama a concentrar el **Miércoles 5 de Diciembre** a las **16:30 hs** en
+**Lavalle y Talcahuano**.
+
+
+
+[#FueFemicidio](https://twitter.com/hashtag/FueFemicidio)
+
+[#SeVaACaerLaJusticiaPatriarcal](https://twitter.com/hashtag/SeVaACaerLaJusticiaPatriarcal)
+
 [#NiUnaMenos](https://twitter.com/hashtag/NiUnaMenos)
 
 [#ParoDeMujeres](https://twitter.com/hashtag/ParoDeMujeres)
 
-![imagen]({{ site.baseurl }}/img/20181204_ni_una_menos.jpg "Cartel paro"){:style="width: 500px; display: block; margin-left: auto; margin-right: auto;"}
+![imagen]({{ site.baseurl }}/img/20181204_marcha.jpeg "Cartel paro"){:style="width: 500px; display: block; margin-left: auto; margin-right: auto;"}
 
 
 
