@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paro de Nacional de Mujeres - Justicia por Lucía Pérez
-subtitle: 5 de Diciembre
+subtitle: Mañana Miércoles 5 de Diciembre
 tags: [posteo,noticias_generales,noticias_locales,gremiales,genero]
 ---
 
