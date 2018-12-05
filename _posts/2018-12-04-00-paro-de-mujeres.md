@@ -5,14 +5,9 @@ subtitle: Mañana Miércoles 5 de Diciembre
 tags: [posteo,noticias_generales,noticias_locales,gremiales,genero]
 ---
 
-Ayer se realizaron asambleas de mujeres en todo el país y se votó la realización
-de un nuevo
-[#ParoDeMujeres](https://twitter.com/hashtag/ParoDeMujeres)
-exigiendo justicia
-contra el fallo absolutorio por el femicidio de Lucía Pérez.
 
-Se llama a concentrar el **Miércoles 5 de Diciembre** a las **16:30 hs** en
-**Lavalle y Talcahuano**.
+A raíz del Fallo Vergonzoso del Poder Judicial Patriarcal por el crimen de Lucia nuestra organización ha decidido convocar a un cese de actividades a partir de las **15 horas del día 5 de diciembre de 2018** con **movilización desde el Palacio de Tribunales** (Talcahuano
+N°550) hasta Plaza de Mayo, en reclamo de **JUSTICIA por LUCÍA**, abajo la justicia patriarcal, destitución de los jueces y revocación del fallo, a sus efectos.
 
 
 
@@ -26,6 +21,12 @@ Se llama a concentrar el **Miércoles 5 de Diciembre** a las **16:30 hs** en
 
 ![imagen]({{ site.baseurl }}/img/20181204_marcha.jpeg "Cartel paro"){:style="width: 500px; display: block; margin-left: auto; margin-right: auto;"}
 
+
+<center>
+<a href="{{ site.baseurl }}/docs/20181205_Acta_Paro_Mujeres_5-12-18.pdf" class="btn btn-primary btn-lg" role="button">
+Descargar Acta Paro
+</a>
+</center>
 
 
 Género ATE CITEDEF
